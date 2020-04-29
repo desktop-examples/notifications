@@ -12,7 +12,7 @@ metadata:
   namespace: Examples
   description: Example Notifications Application
 spec:
-  url: https://desktop-examples.gitlab.io/notifications
+  url: https://desktop-examples.github.io/notifications
   window:
     autoHideMenuBar: true
     backgroundColor: "#1d1d26"
