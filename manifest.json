@@ -1,0 +1,9 @@
+{
+    "name": "Notifications",
+    "short_name": "Notifications",
+    "start_url": "/notifications",
+    "theme_color": "#1d1d26",
+    "background_color": "#1d1d26",
+    "display": "standalone",
+    "orientation": "portrait-primary"
+}
